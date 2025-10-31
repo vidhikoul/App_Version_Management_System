@@ -1,0 +1,14 @@
+strategy/BetaRollout.class
+service/VersionManagement.class
+model/App.class
+Main.class
+strategy/FullRollout.class
+model/AppVersion.class
+model/DeviceDetails.class
+storage/InMemoryStorage.class
+storage/PatchCreation.class
+storage/Diff.class
+model/CheckForUpdates.class
+strategy/AppConfigLoader.class
+strategy/RolloutStrategy.class
+strategy/PercentageRollout.class

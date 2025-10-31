@@ -1,0 +1,9 @@
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/strategy/BetaRolloutTest.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/storage/PatchCreation.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/storage/InMemoryStorage.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/model/AppVersionTest.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/strategy/FullRolloutTest.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/model/AppTest.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/model/DeviceDetails.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/service/VersionManagerTest.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/test/java/strategy/PercentageRolloutTest.java

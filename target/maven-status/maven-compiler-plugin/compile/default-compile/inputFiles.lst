@@ -1,0 +1,14 @@
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/storage/PatchCreation.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/model/DeviceDetails.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/strategy/AppConfigLoader.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/storage/Diff.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/model/AppVersion.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/strategy/FullRollout.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/model/App.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/strategy/RolloutStrategy.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/service/VersionManagement.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/model/CheckForUpdates.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/storage/InMemoryStorage.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/strategy/PercentageRollout.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/strategy/BetaRollout.java
+/Users/vidhikoul/IdeaProjects/AppVersionMangementSystem/src/main/java/Main.java

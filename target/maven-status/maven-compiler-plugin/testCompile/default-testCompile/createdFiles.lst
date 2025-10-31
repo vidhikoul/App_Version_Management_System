@@ -1,0 +1,9 @@
+storage/InMemoryStorageTest.class
+strategy/FullRolloutTest.class
+model/DeviceDetailsTest.class
+model/AppTest.class
+service/VersionManagerTest.class
+model/AppVersionTest.class
+storage/PatchCreationTest.class
+strategy/BetaRolloutTest.class
+strategy/PercentageRolloutTest.class
